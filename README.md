@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90)
 Chi Seung Oh's Profile
 ===
 Helllo my name is Chi Seung Oh Nice to meet you :) 👋
